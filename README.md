@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
