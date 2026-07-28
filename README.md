@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
