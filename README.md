@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
