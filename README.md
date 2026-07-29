@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3945-digit-frequency-score) |
