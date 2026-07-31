@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3110-score-of-a-string](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Database
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
