@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3668-restore-finishing-order](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
