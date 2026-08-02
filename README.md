@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3668-restore-finishing-order](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3917-count-indices-with-opposite-parity](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3917-count-indices-with-opposite-parity) |
