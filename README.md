@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
