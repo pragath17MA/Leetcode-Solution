@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3668-restore-finishing-order](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
