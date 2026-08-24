@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
