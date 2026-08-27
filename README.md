@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3668-restore-finishing-order](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3945-digit-frequency-score) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3668-restore-finishing-order](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3917-count-indices-with-opposite-parity) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
