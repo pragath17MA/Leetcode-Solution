@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragath17MA/Leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3668-restore-finishing-order](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/pragath17MA/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/pragath17MA/Leetcode-Solution/tree/master/0942-di-string-match) |
